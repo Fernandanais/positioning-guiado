@@ -15,9 +15,7 @@ body{
 
 #rosa{
 	background-color: #EE3E64;
-	position: absolute;
-	left: 0;
-	top: 0;
+
 	
 
 }
@@ -25,20 +23,16 @@ body{
 #azul{
 	background-color: #2B7DB9;
 	position: absolute;
-	right: 0;
-	top: 0;
+	left: 200px;
+	top: 200px;
+	
+
 }
 
 #verde{
 	background-color: #B7D84B;
-	position: absolute;
-	left: 0;
-	bottom: 0;
+
 }
 
 #amarilla{
 	background-color: #FFD700;
-	position: absolute;
-	right: 0;
-	bottom: 0;
-}
